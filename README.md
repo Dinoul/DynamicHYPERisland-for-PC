@@ -212,7 +212,7 @@ Yes.
 Depends on the functions running and if browser hardware acceleration is enabled.
 
 **🐧 Does it work on macOS or Linux?**
-No.
+Soon.
 
 **👤 Do I need to sign in?**
 Yes for discord only.
