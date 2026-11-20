@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>The<a href="https://dinoul.github.io/hyperisland.github.io/">Site.</a></b>
+  <b>The <a href="https://dinoul.github.io/hyperisland.github.io/">Site.</a></b>
 </p>
 
 <p align="center">
