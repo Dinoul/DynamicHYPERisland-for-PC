@@ -47,7 +47,7 @@
 
 ## 📖 Overview
 
-Hypericeland is a compact, always-on-top iceland that lives at the top of your Windows screen. In its resting state it is a small pill showing the time, or the countdown of a running timer. Click it and it expands into the module you need, then collapses again when you are done.
+Hyperisland for windows is a compact, always-on-top iceland that lives at the top of your Windows screen. In its resting state it is a small pill showing the time, or the countdown of a running timer. Click it and it expands into the module you need, then collapses again when you are done.
 
 It is built for people who switch constantly between windows to check the time, copy a command, start a timer, skip a track or see what is eating their RAM. Those small tasks are moved into one consistent, fast surface.
 
