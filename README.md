@@ -7,8 +7,12 @@
   Everything you want, in one small island at the top of your screen.
 </p>
 
-<p align="center">
+## <p align="center">
   <b>The <a href="https://dinoul.github.io/hyperisland.github.io/"target="_blank" rel="noopener noreferrer">hyperisland site.</a>
+</p> ##
+
+<p align="center">
+  <b>The <a href="https://github.com/Dinoul/HyperIsland-ForPC/tree/main" target="_blank" rel="noopener noreferrer">hyperisland site.</a></b>
 </p>
 
 <p align="center">
