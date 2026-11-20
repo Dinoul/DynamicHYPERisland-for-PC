@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <b>The site.
+</p>
+
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.36-0b7f74">
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4">
   <img alt="Updates" src="https://img.shields.io/badge/updates-automatic-2ea043">
