@@ -12,7 +12,7 @@
 </p> ##
 
 <p align="center">
-  <b>The <a href="[https://github.com/Dinoul/HyperIsland-ForPC/tree/mai](https://dinoul.github.io/hyperisland.github.io/)n" target="_blank" rel="noopener noreferrer">hyperisland site.</a></b>
+  <b>The <a href="https://dinoul.github.io/hyperisland.github.io/" target="_blank" rel="noopener noreferrer">hyperisland site.</a></b>
 </p>
 
 <p align="center">
