@@ -47,7 +47,7 @@
 
 ## 📖 Overview
 
-Hyperisland is a compact, always-on-top island that lives at the top of your Windows screen. In its resting state it is a small pill showing the time, or the countdown of a running timer. Click it and it expands into the module you need, then collapses again when you are done.
+Hypericeland is a compact, always-on-top iceland that lives at the top of your Windows screen. In its resting state it is a small pill showing the time, or the countdown of a running timer. Click it and it expands into the module you need, then collapses again when you are done.
 
 It is built for people who switch constantly between windows to check the time, copy a command, start a timer, skip a track or see what is eating their RAM. Those small tasks are moved into one consistent, fast surface.
 
@@ -62,7 +62,7 @@ It is built for people who switch constantly between windows to check the time, 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/island.png" alt="Collapsed island" height="60">
+  <img src="assets/IceLand.png" alt="Collapsed island" height="60">
 </p>
 
 <p align="center">
@@ -87,16 +87,16 @@ It is built for people who switch constantly between windows to check the time, 
 
 1. Download the latest installer from the [Releases](../../releases) page.
 2. Run the installer and follow the prompts.
-3. Hyperisland starts and appears at the top of your screen.
+3. Hypericeland starts and appears at the top of your screen.
 4. For notification support, click allow access and click yes for the admin prompt.
 
 ### Updating
 
-Hyperisland checks for updates in the background. The status is shown next to the toolbar, for example **Up to date · v1.0.36**. No manual action is needed.
+Hypericeland checks for updates in the background. The status is shown next to the toolbar, for example **Up to date · v1.0.36**. No manual action is needed.
 
 ### Uninstalling
 
-Remove Hyperisland from **Settings → Apps → Installed apps**, like any other Windows application.
+Remove Hypericeland from **Settings → Apps → Installed apps**, like any other Windows application.
 
 ## 🚀 Getting started
 
@@ -158,7 +158,7 @@ Theme, surface and accent colour. See Customization.
 
 <p align="center"><img src="assets/discord.png" alt="Discord" width="340"></p>
 
-Hyperisland uses your own Discord application, so no third-party service sits between you and Discord and no bot or webhook is needed.
+Hypericeland uses your own Discord application, so no third-party service sits between you and Discord and no bot or webhook is needed.
 
 1. Open the [Discord Developer Portal](https://discord.com/developers/applications) and create an application. Use the same Discord account you use in Discord for Windows.
 2. Go to **OAuth2 → Redirects**, add `http://localhost` and click **Save Changes**.
